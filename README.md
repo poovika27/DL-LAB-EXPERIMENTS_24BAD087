@@ -1,6 +1,5 @@
 # Deep Learning Lab Experiments
 
-## Student Details
 - **Name:** POOVIKA M
 - **Roll Number:** 24BAD087
 
